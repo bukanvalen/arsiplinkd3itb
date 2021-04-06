@@ -1,7 +1,7 @@
 # Arsip Link D3 IT B
->Mau nambah/request link? Kirim ke `Valen alias Lord`, trims
-
+> Mau nambah/request link? Kirim ke `Valen alias Lord`, trims
 [Google Drive Kelas](https://drive.google.com/drive/u/0/folders/1_85kSLSrTfN0uSguedeU2T6V2_FkrZYP) (yang mau nambah file, tolong hubungi Lord)  
+[Repository Kode Goreng](https://github.com/bukanvalen/kodegoreng) (ya isinya tugas2 pemrograman gitu, punya Lord jelasnya :v)  
 ## Semester 1
 [REKAMAN Konsep Pemrograman, Bu Lely](http://bit.ly/KP-D3B-Video)  
 [REKAMAN Konsep Pemrograman, Dosen Campuran](https://bit.ly/Video-MK-Konsep-Pemrograman)  
